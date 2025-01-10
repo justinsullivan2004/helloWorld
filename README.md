@@ -12,9 +12,9 @@ My purpose is to create a workspace for me future projects.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used github, and vscode for the software but nothing else
 
-{Describe the programming language that you used}
+I used python. 
 
 # Useful Websites
 
